@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vamshi-Madineni
 - 👀 I’m interested in Software Development & Data Engineering
-- 🌱 I’m currently doing masters in computer science
+- 🌱 I’m currently doing masters in computer science at NYU
 - 💞️ I’m looking to collaborate on projects that can change world
 
 
